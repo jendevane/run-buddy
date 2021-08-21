@@ -4,12 +4,12 @@
 ## Purpose 
   A website that offers fitness training
   
-  ## built with 
+## built with 
   *HTML
   *CSS
   
-  ##Website
+ ## Website
   http://lernantino.github.io/run-buddy/
   
-  ## Contribution
+ ## Contribution
   Made with love by Jennifer Devane
