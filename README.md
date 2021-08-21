@@ -13,3 +13,5 @@
   
  ## Contribution
   Made with love by Jennifer Devane
+
+### ©️2019 Run Buddy, Inc 
