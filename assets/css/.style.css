@@ -9,6 +9,10 @@ body {
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
   }
   header h1 {
     font-weight: bold;
@@ -25,7 +29,7 @@ header {
        color: #fce138
   }/* make links float right*/
   header nav {
-      float:right; 
+      
       margin: 7px 0;
   }/*PUT LINKS INLINE WITH EACHOTHER*/
   header nav ul li { 
