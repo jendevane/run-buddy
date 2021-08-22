@@ -31,14 +31,19 @@ header {
   header nav {
       
       margin: 7px 0;
-  }/*PUT LINKS INLINE WITH EACHOTHER*/
-  header nav ul li { 
-      display: inline;
-  }/*CHANGES SIZE AND HUE OF LINKS*/
+  }
+  header nav ul { 
+      display:flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      list-style:none;
+  }
+  /*CHANGES SIZE AND HUE OF LINKS*/
   header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 22px;
+    font-size: 1.55vw;
   }
   /* put header in line with links*/
   header h1 {
